@@ -1,0 +1,15 @@
+---
+description: Driver for STM MFX GPIO expander
+fullname: lib.stm.mfx
+info:
+    chip_manufacturer: STM
+    chip_name: STM32L152CCT6
+    name: GPIO expander
+    type: Interface
+keywords:
+- stm 
+- GPIO
+- expander
+title: MFX GPIO expander
+...
+
